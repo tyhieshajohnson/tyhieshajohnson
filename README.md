@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tyhieshajohnson
-- 👀 I’m interested in web & app development, digital marketing, skating, travelling and chess.
-- 🌱 I’m currently learning 2023: HTML, CSS & J.S
-- 💞️ I’m looking to collaborate on an interactive company landing page with someone who knows more than I do.
-- 📫 How to reach me ig: @tyhieshajohnson / @gold4nchild
+Hello, I am Tyhiesha Johnson. A full-stack developer with proficiency in Front-end.
+My main interests are people (marketing, psychology) and delivering projects on time. 
+Languages I have learnt so far are HTML5, CSS & JavaScript. 
+Frameworks include; Bootstrap.
 
 <!---
 tyhieshajohnson/tyhieshajohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
