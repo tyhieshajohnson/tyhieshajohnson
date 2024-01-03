@@ -1,4 +1,4 @@
-Hello, I am Tyhiesha Johnson. A full-stack developer with proficiency in Front-end.
+Hello, I am Tyhiesha Johnson. An aspiring full-stack developer with proficiency in Front-end.
 My main interests are people (marketing, psychology) and delivering projects on time. 
 Languages I have learnt so far are HTML5, CSS & JavaScript. 
 Frameworks include; Bootstrap & Vue.js.
