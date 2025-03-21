@@ -6,7 +6,9 @@
 
 Java, Python, JavaScript, Vue.js
 MySQL, Node.js
+
 Currently diving into Swift to build some cool iOS apps!
+
 📲 Follow me on:
 
 Instagram: @johnsontyhiesha
