@@ -12,8 +12,11 @@ Currently diving into Swift to build some cool iOS apps!
 📲 Follow me on:
 
 Instagram: @johnsontyhiesha
+
 TikTok: @johnsontyhiesha
+
 YouTube: Tyhiesha Johnson
+
 Let’s code something awesome together! 💻✨
 
 <!---
