@@ -1,13 +1,15 @@
 👋 Hey there! I'm Tyhiesha Johnson, a passionate Software Developer who loves blending tech with creativity.
 
-🚀 I’m always exploring new ways to improve my skills and build impactful projects. I’m fascinated by the world of marketing, psychology, and human behavior, and I also have a deep curiosity for filming 🦋. When I'm not coding, you can find me editing my YouTube videos, spending time in nature or learning something new.
+🚀 I’m always exploring new ways to improve my skills and build impactful projects. I’m fascinated by the world of marketing, psychology, and technology, and I also have a deep curiosity for filming 🦋. When I'm not coding, you can find me editing my YouTube videos, spending time in nature or learning something new.
 
 🔧 Technologies I’m working with:
 
-Java, Python, JavaScript, Vue.js
-MySQL, Node.js
+Java, Python, JavaScript, React.js, React Native, Vue.js
+MySQL, Node.js, TailwindCSS, WordPress, Figma, Adobe Photoshop, Adobe Illustrator
 
-Currently diving into Swift to build some cool iOS apps!
+Currently diving into Swift to build cool iOS apps & Next.js for full-stack web development!
+
+🎨 Always learning about the impact of UI/UX!
 
 📲 Follow me on:
 
