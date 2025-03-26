@@ -7,7 +7,7 @@
 Java, Python, JavaScript, React.js, React Native, Vue.js
 MySQL, Node.js, TailwindCSS, WordPress, Figma, Adobe Photoshop, Adobe Illustrator
 
-Currently diving into Swift to build cool iOS apps & Next.js for full-stack web development!
+Currently diving into Kotlin to build cool Android apps & Next.js for full-stack web development!
 
 🎨 Always learning about the impact of UI/UX!
 
