@@ -4,20 +4,12 @@
 
 🔧 Technologies I’m working with:
 
-Java, Python, JavaScript, React.js, React Native, Vue.js
+Java, Python, PHP, SQL, JavaScript, React.js, React Native, Vue.js
 MySQL, Node.js, TailwindCSS, WordPress, Figma, Adobe Photoshop, Adobe Illustrator
 
 Currently diving into Kotlin to build cool Android apps & Next.js for full-stack web development!
 
 🎨 Always learning about the impact of UI/UX!
-
-📲 Follow me on:
-
-Instagram: @johnsontyhiesha
-
-TikTok: @johnsontyhiesha
-
-YouTube: Tyhiesha Johnson
 
 Let’s code something awesome together! 💻✨
 
