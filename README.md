@@ -4,7 +4,7 @@
 
 🔧 Technologies I’m working with:
 
-Java, Python, PHP, SQL, JavaScript, React.js, React Native, Vue.js
+Java, Python, PHP, SQL, JavaScript, React.js, React Native, Vue.js, Next.js, Oracle Apex,
 MySQL, Node.js, TailwindCSS, WordPress, Figma, Adobe Photoshop, Adobe Illustrator
 
 Currently diving into Kotlin to build cool Android apps & Next.js for full-stack web development!
