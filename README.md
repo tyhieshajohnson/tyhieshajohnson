@@ -2,10 +2,10 @@
   <img src="https://i.ibb.co/HTdXRcnc/Screenshot-2026-06-02-at-11-13-26.png" alt="Tyhiesha Johnson GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm Tyhiesha Johnson</h1>
+<h1 align="center">Hey there, I'm Tyhiesha Johnson</h1>
 
 <p align="center">
-  <strong>Software Developer | SDET | STEM Educator | Creative Technologist</strong>
+  <strong>Software Developer | SDET | STEM Educator</strong>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I’m a passionate **Software Developer and SDET** who enjoys building projects that are useful, beautiful, testable, and impactful.
 
@@ -37,11 +37,11 @@ I’m especially interested in the intersection of **technology, quality assuran
 
 As an SDET, I’m interested in writing cleaner code, improving software quality, creating reliable test systems, and building applications that are not only functional but also user-focused.
 
-When I’m not coding, you’ll probably find me editing YouTube videos, learning something new, spending time in nature, or exploring creative ideas behind the camera 🦋
+When I’m not coding, you’ll probably find me editing YouTube videos, learning something new, spending time in nature, or exploring creative ideas behind the camera.
 
 ---
 
-## 🚀 What I’m Currently Learning
+## What I’m Currently Learning
 
 * Swift for iOS development
 * Kotlin for Android app development
@@ -52,7 +52,7 @@ When I’m not coding, you’ll probably find me editing YouTube videos, learnin
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
@@ -76,7 +76,7 @@ Figma · Adobe Photoshop · Adobe Illustrator · WordPress
 
 ---
 
-## 🎨 Creative + Tech Interests
+## Creative + Tech Interests
 
 I’m always learning more about how **UI/UX impacts the way people feel, think, and interact with technology**.
 
@@ -84,7 +84,7 @@ I’m also curious about filming, content creation, branding, and digital storyt
 
 ---
 
-## 💻 Let’s Build Something Awesome
+## Let’s Build Something Awesome
 
 I’m always open to learning, collaborating, and creating meaningful projects.
 
