@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tyhiesha-banner.png" alt="Tyhiesha Johnson GitHub Banner" width="100%" />
+  <img src="https://ibb.co/23N5Rzgz" alt="Tyhiesha Johnson GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Tyhiesha Johnson</h1>
