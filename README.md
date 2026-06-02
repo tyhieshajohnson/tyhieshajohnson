@@ -1,17 +1,97 @@
-👋 Hey there! I'm Tyhiesha Johnson, a passionate Software Developer who loves blending tech with creativity.
+<p align="center">
+  <img src="./assets/tyhiesha-banner.png" alt="Tyhiesha Johnson GitHub Banner" width="100%" />
+</p>
 
-🚀 I’m always exploring new ways to improve my skills and build impactful projects. I’m fascinated by the world of marketing, psychology, and technology, and I also have a deep curiosity for filming 🦋. When I'm not coding, you can find me editing my YouTube videos, spending time in nature or learning something new.
+<h1 align="center">👋 Hey there, I'm Tyhiesha Johnson</h1>
 
-🔧 Technologies I’m working with:
+<p align="center">
+  <strong>Software Developer | SDET | STEM Educator | Creative Technologist</strong>
+</p>
 
-Java, Python, PHP, SQL, JavaScript, React.js, React Native, Vue.js, Next.js, Oracle Apex,
-MySQL, Node.js, TailwindCSS, WordPress, Figma, Adobe Photoshop, Adobe Illustrator
+<p align="center">
+  I love blending technology, creativity, psychology, and storytelling to build meaningful digital experiences.
+</p>
 
-Currently diving into Kotlin to build cool Android apps & Next.js for full-stack web development!
+<p align="center">
+  <a href="https://www.youtube.com/@tyhieshajohnson">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/tyhieshajohnson">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/urkgeekprincess">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@urgeekprincess">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 
-🎨 Always learning about the impact of UI/UX!
+---
 
-Let’s code something awesome together! 💻✨
+## 🌸 About Me
+
+I’m a passionate **Software Developer and SDET** who enjoys building projects that are useful, beautiful, testable, and impactful.
+
+I’m especially interested in the intersection of **technology, quality assurance, marketing, psychology, design, and creativity**. I love exploring how people think, how users interact with digital products, and how software can solve real-world problems.
+
+As an SDET, I’m interested in writing cleaner code, improving software quality, creating reliable test systems, and building applications that are not only functional but also user-focused.
+
+When I’m not coding, you’ll probably find me editing YouTube videos, learning something new, spending time in nature, or exploring creative ideas behind the camera 🦋
+
+---
+
+## 🚀 What I’m Currently Learning
+
+* Swift for iOS development
+* Kotlin for Android app development
+* Next.js for full-stack web development
+* UI/UX design principles
+* Software testing, automation, and QA practices
+* Building cleaner, better, and more user-focused applications
+
+---
+
+## 🔧 Technologies & Tools
+
+### Languages
+
+Java · Python · PHP · SQL · JavaScript · Kotlin · Swift
+
+### Frontend
+
+React.js · React Native · Vue.js · Next.js · TailwindCSS · HTML · CSS
+
+### Backend & Databases
+
+Node.js · MySQL · Oracle APEX
+
+### Testing & QA
+
+SDET Practices · Test Automation · Manual Testing · QA Processes · Pytest
+
+### Design & Creative Tools
+
+Figma · Adobe Photoshop · Adobe Illustrator · WordPress
+
+---
+
+## 🎨 Creative + Tech Interests
+
+I’m always learning more about how **UI/UX impacts the way people feel, think, and interact with technology**.
+
+I’m also curious about filming, content creation, branding, and digital storytelling — because great technology is not only functional, it also needs to feel good to use.
+
+---
+
+## 💻 Let’s Build Something Awesome
+
+I’m always open to learning, collaborating, and creating meaningful projects.
+
+<p align="center">
+  ✨ Let’s code something awesome together ✨
+</p>
+
 
 <!---
 tyhieshajohnson/tyhieshajohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
