@@ -1,5 +1,5 @@
 <p align="center">
-  <img <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
       <stop offset="0%" stop-color="#190019"/>
@@ -30,7 +30,7 @@
   <text x="80" y="280" fill="#FBE4D8" font-size="28" font-family="Arial, sans-serif">
     Software Developer | SDET | STEM Educator
   </text>
-</svg> alt="Tyhiesha Johnson GitHub Banner" width="100%" />
+</svg>
 </p>
 
 <h1 align="center">Hey there, I'm Tyhiesha Johnson</h1>
