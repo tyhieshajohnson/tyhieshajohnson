@@ -1,38 +1,3 @@
-<p align="center">
-  <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360">
-      <stop offset="0%" stop-color="#190019"/>
-      <stop offset="45%" stop-color="#2B124C"/>
-      <stop offset="100%" stop-color="#522B5B"/>
-    </linearGradient>
-
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="312" rx="26" fill="#190019" fill-opacity="0.35" stroke="#854F6C"/>
-
-  <circle cx="1010" cy="165" r="92" fill="#854F6C" fill-opacity="0.22" filter="url(#softGlow)"/>
-  <rect x="855" y="105" width="220" height="140" rx="18" fill="#2B124C" stroke="#DFB6B2"/>
-  <rect x="885" y="130" width="160" height="12" rx="6" fill="#854F6C"/>
-  <text x="925" y="205" fill="#FBE4D8" font-size="58" font-family="Arial, sans-serif">&lt;/&gt;</text>
-
-  <text x="80" y="120" fill="#DFB6B2" font-size="54" font-family="Georgia, serif">Hey there,</text>
-  <text x="80" y="200" fill="#FBE4D8" font-size="76" font-family="Georgia, serif" font-weight="700">I'm Tyhiesha</text>
-  <rect x="80" y="230" width="70" height="4" rx="2" fill="#DFB6B2"/>
-  <text x="80" y="280" fill="#FBE4D8" font-size="28" font-family="Arial, sans-serif">
-    Software Developer | SDET | STEM Educator
-  </text>
-</svg>
-</p>
-
 <h1 align="center">Hey there, I'm Tyhiesha Johnson</h1>
 
 <p align="center">
