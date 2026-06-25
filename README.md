@@ -64,7 +64,7 @@ Node.js · MySQL · Oracle APEX
 
 ### Testing & QA
 
-SDET Practices · Test Automation · Manual Testing · QA Processes · Pytest
+SDET Practices · Selenium · Playwright · Postman · Pytest · RestAssured · TestNG · Maven · Jenkins
 
 ### Design & Creative Tools
 
